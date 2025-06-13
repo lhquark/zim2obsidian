@@ -35,8 +35,7 @@ The converter handles a wide range of Zim Wiki syntax and features, including:
 ## Installation
 
 1.  Clone or download the repository.
-2.  Navigate to the `code` directory.
-3.  Install the required dependency:
+2.  Install the required dependency:
     ```bash
     pip install -r requirements.txt
     ```
